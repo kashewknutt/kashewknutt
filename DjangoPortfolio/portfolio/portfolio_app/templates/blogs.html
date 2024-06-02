@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blog</title>
+    {% load static %}
+    <link rel="stylesheet" href="{% static 'css/styles.css' %}">
+</head>
+<body>
+    <header id="header">
+        <div class="container">
+            <h1>Rajat Disawal</h1>
+            <h2>Generative AI Engineer</h2>
+            <nav>
+                <ul>
+                    <li><a href="/">Home</a></li>
+                    <!-- Links to sections on the original home page -->
+                    <li><a href="/#about">About Me</a></li>
+                    <li><a href="/#projects">Projects</a></li>
+                    <li><a href="/#experience">Experience</a></li>
+                    <li><a href="/#certifications">Certifications</a></li>
+                    <li><a href="/#education">Education</a></li>
+                    <li><a href="/#skills">Skills</a></li>
+                    <li><a href="/#contact">Contact</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <main>
+        <section id="blogs">
+            <div class="container">
+                <h2>Latest Blog Posts</h2>
+                {% for blog in blogs %}
+                    <article class="blog-post">
+                        <h3>{{ blog.title }}</h3>
+                        <p>{{ blog.content }}</p>
+                        <p>Date Posted: {{ blog.date_posted }}</p>
+                    </article>
+                {% endfor %}
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <div class="container">
+            <p>Contact me: kashewknutt@gmail.com</p>
+            <p>Connect with me: <a href="https://www.linkedin.com/in/rajat-disawal-b1a805215/">LinkedIn</a></p>
+        </div>
+    </footer>
+</body>
+</html>

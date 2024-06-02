@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Rajat Disawal - Generative AI Engineer</title>
+    {% load static %}
     <link rel="stylesheet" href="{% static 'css/styles.css' %}">
 </head>
 <body>
@@ -14,10 +15,10 @@
             <nav>
                 <ul>
                     <li><a href="#about">About Me</a></li>
-                    <li><a href="#experience">Experience</a></li>
                     <li><a href="#projects">Projects</a></li>
-                    <li><a href="#education">Education</a></li>
+                    <li><a href="#experience">Experience</a></li>
                     <li><a href="#certifications">Certifications</a></li>
+                    <li><a href="#education">Education</a></li>
                     <li><a href="#skills">Skills</a></li>
                     <li><a href="#contact">Contact</a></li>
                 </ul>
@@ -25,94 +26,46 @@
         </div>
     </header>
 
-    <section id="intro">
-        <div class="intro-text">
-            <h1>Welcome to My Portfolio</h1>
-            <p>Explore my work and experience in Generative AI and Data Science</p>
-        </div>
-    </section>
-
     <main>
-        <section id="about">
-            <div class="container">
-                <h2>About Me</h2>
-                <p>I am a dedicated Generative AI Engineer with a robust foundation in Artificial Intelligence and Data Science, currently pursuing a B.Tech degree from Vivekanand Education Society's Institute of Technology...</p>
-            </div>
-        </section>
-        
-        <section id="experience">
-            <div class="container">
-                <h2>Experience</h2>
-                <div class="job">
-                    <h3>Technical Officer</h3>
-                    <p>Followed various research papers to gain understanding on how generative AI developed over the years. Developed a basic generative AI chatbot on a training dataset...</p>
-                </div>
-                <div class="job">
-                    <h3>Content Writer</h3>
-                    <p>Produced SEO-optimized content for platforms like Quora and Reddit, and contributed to the official blog of First Contact...</p>
-                </div>
-            </div>
-        </section>
-        
         <section id="projects">
             <div class="container">
                 <h2>Projects</h2>
+                {% for project in projects %}
                 <div class="project">
-                    <h3>Fine-Tuned Generative AI Model</h3>
-                    <p>Developed a transformer-based generative model using fantasy novels as a dataset...</p>
+                    <h3>{{ project.title }}</h3>
+                    <p>{{ project.description }}</p>
+                    <img src="{{ project.image.url }}" alt="{{ project.title }}">
                 </div>
-                <div class="project">
-                    <h3>Python Projects</h3>
-                    <p>Snake Game, Angry Birds spin-off, Call Center Simulation...</p>
-                </div>
-                <div class="project">
-                    <h3>PythonGPT</h3>
-                    <p>Created a generative AI model based on Google’s Gemini model API...</p>
-                </div>
+                {% endfor %}
             </div>
         </section>
-        
-        <section id="education">
+
+        <section id="experience">
             <div class="container">
-                <h2>Education</h2>
-                <p>B.Tech in AI and DS, Vivekanand Education Society's Institute of Technology (Graduation: 2026)</p>
+                <h2>Experience</h2>
+                {% for experience in experiences %}
+                <div class="experience">
+                    <h3>{{ experience.title }}</h3>
+                    <h4>{{ experience.company }}</h4>
+                    <p>{{ experience.description }}</p>
+                </div>
+                {% endfor %}
             </div>
         </section>
-        
+
         <section id="certifications">
             <div class="container">
                 <h2>Certifications</h2>
-                <ul>
-                    <li>Generative AI Professional</li>
-                    <li>ML Onramp</li>
-                    <li>Statistics Onramp</li>
-                    <li>MATLAB Onramp</li>
-                    <li>ML with MATLAB</li>
-                    <li>Content Marketing</li>
-                </ul>
-            </div>
-        </section>
-        
-        <section id="skills">
-            <div class="container">
-                <h2>Skills</h2>
-                <ul>
-                    <li>Generative AI</li>
-                    <li>LLM</li>
-                    <li>Fine Tuning</li>
-                    <li>Python</li>
-                    <li>Front-end Development</li>
-                    <li>Content Marketing</li>
-                    <li>Content Writing</li>
-                    <li>Creative Writing</li>
-                    <li>Leadership</li>
-                    <li>Persuasive Speaking</li>
-                    <li>English (Written and Spoken)</li>
-                </ul>
+                {% for certification in certifications %}
+                <div class="certification">
+                    <h3>{{ certification.title }}</h3>
+                    <p>{{ certification.description }}</p>
+                </div>
+                {% endfor %}
             </div>
         </section>
     </main>
-    
+
     <footer>
         <div class="container">
             <p>Contact me: kashewknutt@gmail.com</p>
