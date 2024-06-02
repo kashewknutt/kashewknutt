@@ -1,0 +1,48 @@
+<!-- project_list.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Project List</title>
+    <link rel="stylesheet" href="{% static 'portfolio_app/css/style.css' %}">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Rajat Disawal - Portfolio</h1>
+            <nav>
+                <ul>
+                    <li><a href="#about">About Me</a></li>
+                    <li><a href="#experience">Experience</a></li>
+                    <li><a href="#projects">Projects</a></li>
+                    <li><a href="#education">Education</a></li>
+                    <li><a href="#certifications">Certifications</a></li>
+                    <li><a href="#skills">Skills</a></li>
+                    <li><a href="#contact">Contact</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <main>
+        <section id="projects">
+            <div class="container">
+                <h2>Projects</h2>
+                <ul>
+                    {% for project in projects %}
+                        <li><a href="{% url 'project_detail' project.pk %}">{{ project.title }}</a></li>
+                    {% endfor %}
+                </ul>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <div class="container">
+            <p>Contact me: kashewknutt@gmail.com</p>
+            <p>Connect with me: <a href="https://www.linkedin.com/in/rajat-disawal-b1a805215/">LinkedIn</a></p>
+        </div>
+    </footer>
+</body>
+</html>
