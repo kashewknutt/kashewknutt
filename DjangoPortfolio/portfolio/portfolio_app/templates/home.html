@@ -18,7 +18,7 @@
                     <li><a href="#projects">Projects</a></li>
                     <li><a href="#experience">Experience</a></li>
                     <li><a href="#certifications">Certifications</a></li>
-                    <li><a href="/blogs/">Blog</a></li>
+                    <li><a href="{% url 'blog' %}">Blog</a></li>
                     <li><a href="#education">Education</a></li>
                     <li><a href="#skills">Skills</a></li>
                     <li><a href="#contact">Contact</a></li>
@@ -34,12 +34,13 @@
                 {% for project in projects %}
                 <div class="project">
                     <h3>{{ project.title }}</h3>
-                    <p>{{ project.description }}</p>
+                    <p>{{ project.description|linebreaks }}</p>
                     <img src="{{ project.image.url }}" alt="{{ project.title }}">
                 </div>
                 {% endfor %}
             </div>
         </section>
+        
 
         <section id="experience">
             <div class="container">
@@ -48,7 +49,11 @@
                 <div class="experience">
                     <h3>{{ experience.title }}</h3>
                     <h4>{{ experience.company }}</h4>
-                    <p>{{ experience.description }}</p>
+                    <ul class="description">
+                        {% for bullet in experience.description.splitlines %}
+                        <li>{{ bullet }}</li>
+                        {% endfor %}
+                    </ul>
                 </div>
                 {% endfor %}
             </div>
@@ -60,7 +65,11 @@
                 {% for certification in certifications %}
                 <div class="certification">
                     <h3>{{ certification.title }}</h3>
-                    <p>{{ certification.description }}</p>
+                    <ul class="description">
+                        {% for bullet in certification.description.splitlines %}
+                        <li>{{ bullet }}</li>
+                        {% endfor %}
+                    </ul>
                 </div>
                 {% endfor %}
             </div>
