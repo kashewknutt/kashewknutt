@@ -1,10 +1,11 @@
+{% load static %}
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Rajat Disawal - Generative AI Engineer</title>
-    {% load static %}
     <link rel="stylesheet" href="{% static 'css/styles.css' %}">
 </head>
 <body>
@@ -31,17 +32,18 @@
         <section id="projects">
             <div class="container">
                 <h2>Projects</h2>
-                {% for project in projects %}
-                <div class="project">
-                    <h3>{{ project.title }}</h3>
-                    <p>{{ project.description|linebreaks }}</p>
-                    <img src="{{ project.image.url }}" alt="{{ project.title }}">
+                <div class="slider">
+                    {% for project in projects %}
+                    <div class="slide">
+                        <h3>{{ project.title }}</h3>
+                        <p>{{ project.description|linebreaks }}</p>
+                        <img src="{{ project.image.url }}" alt="{{ project.title }}" class="project-image">
+                    </div>
+                    {% endfor %}
                 </div>
-                {% endfor %}
             </div>
         </section>
         
-
         <section id="experience">
             <div class="container">
                 <h2>Experience</h2>
@@ -62,16 +64,32 @@
         <section id="certifications">
             <div class="container">
                 <h2>Certifications</h2>
-                {% for certification in certifications %}
-                <div class="certification">
-                    <h3>{{ certification.title }}</h3>
-                    <ul class="description">
-                        {% for bullet in certification.description.splitlines %}
-                        <li>{{ bullet }}</li>
-                        {% endfor %}
-                    </ul>
+                <div class="slider">
+                    {% for certification in certifications %}
+                    <div class="slide">
+                        <h3>{{ certification.title }}</h3>
+                        <ul class="description">
+                            {% for bullet in certification.description.splitlines %}
+                            <li>{{ bullet }}</li>
+                            {% endfor %}
+                        </ul>
+                    </div>
+                    {% endfor %}
                 </div>
-                {% endfor %}
+            </div>
+        </section>
+
+        <section id="skills">
+            <div class="container">
+                <h2>Skills</h2>
+                <div class="slider">
+                    {% for skill in skills %}
+                    <div class="slide">
+                        <h3>{{ skill.title }}</h3>
+                        <p>{{ skill.description|linebreaks }}</p>
+                    </div>
+                    {% endfor %}
+                </div>
             </div>
         </section>
     </main>
@@ -82,5 +100,7 @@
             <p>Connect with me: <a href="https://www.linkedin.com/in/rajat-disawal-b1a805215/">LinkedIn</a></p>
         </div>
     </footer>
+
+    <script src="{% static 'js/slider.js' %}"></script>
 </body>
 </html>

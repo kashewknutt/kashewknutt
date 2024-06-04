@@ -213,6 +213,18 @@ footer {
     text-align: center;
 }
 
+/* Slider Styling */
+.slider {
+    display: flex;
+    overflow-x: auto;
+    scroll-snap-type: x mandatory;
+}
+
+.slide {
+    flex: 0 0 auto;
+    scroll-snap-align: start;
+}
+
 /* Project Section Styling */
 .project {
     display: flex;
@@ -289,4 +301,53 @@ footer {
 
 .blog p {
     margin-bottom: 1rem;
+}
+
+/* Basic Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
+
+/* Body and Container */
+body {
+    line-height: 1.6;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+}
+
+/* Header Styling */
+header {
+    background: #333;
+    color: #fff;
+    padding-top: 30px;
+    min-height: 70px;
+    border-bottom: #77b300 3px solid;
+}
+
+/* Add other styles as needed */
+
+/* Slider Styling */
+.slider {
+    display: flex;
+    overflow-x: auto;
+    scroll-snap-type: x mandatory;
+}
+
+.slide {
+    flex: 0 0 auto;
+    scroll-snap-align: start;
+    width: 300px; /* Adjust the width as needed */
+    margin-right: 20px; /* Adjust the margin as needed */
+}
+
+.slide img {
+    width: 100%; /* Ensures the image fits within the slide */
+    height: auto; /* Maintains aspect ratio */
 }
