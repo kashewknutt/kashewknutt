@@ -1,25 +1,32 @@
 document.addEventListener('DOMContentLoaded', function() {
-    const slides = document.querySelectorAll('.slide');
-    let currentSlide = 0;
+    const sliders = document.querySelectorAll('.slider');
+    
+    sliders.forEach(slider => {
+        const slides = slider.querySelectorAll('.slide');
+        let currentSlide = 0;
 
-    // Show the initial slide
-    showSlide(currentSlide);
+        // Show the initial slide
+        showSlide(slides, currentSlide);
 
-    // Event listeners for slide buttons
-    document.querySelector('.prev-slide').addEventListener('click', function() {
-        currentSlide = (currentSlide - 1 + slides.length) % slides.length;
-        showSlide(currentSlide);
-    });
+        // Event listeners for slide buttons
+        slider.querySelector('.prev-slide').addEventListener('click', function() {
+            currentSlide = (currentSlide - 1 + slides.length) % slides.length;
+            showSlide(slides, currentSlide);
+        });
 
-    document.querySelector('.next-slide').addEventListener('click', function() {
-        currentSlide = (currentSlide + 1) % slides.length;
-        showSlide(currentSlide);
+        slider.querySelector('.next-slide').addEventListener('click', function() {
+            currentSlide = (currentSlide + 1) % slides.length;
+            showSlide(slides, currentSlide);
+        });
     });
 
     // Function to show a specific slide
-    function showSlide(index) {
+    function showSlide(slides, index) {
         slides.forEach((slide, i) => {
-            slide.style.display = i === index ? 'block' : 'none';
+            slide.classList.remove('active');
+            if (i === index) {
+                slide.classList.add('active');
+            }
         });
     }
 });
