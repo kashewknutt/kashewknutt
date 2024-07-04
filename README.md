@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rajat Disawal</h1>
 <h3 align="center">Generative AI Engineer</h3>
 
-<img align="right" alt="coding" width="20%" src="https://github.com/kashewknutt/kashewknutt/blob/main/HelloWorld.gif">
+<img align="right" alt="coding" width="40%" src="https://github.com/kashewknutt/kashewknutt/blob/main/HelloWorld.gif">
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kashewknutt&label=Profile%20views&color=0e75b6&style=flat" alt="kashewknutt" /> </p>
 
