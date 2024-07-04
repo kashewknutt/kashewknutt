@@ -5,7 +5,7 @@
 
 
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=kashewknutt&label=Profile%20views&color=0e75b6&style=flat" alt="kashewknutt" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=kashewknutt&label=Profile%20views&color=0d75b6&style=flat" alt="kashewknutt" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kashewknutt" alt="kashewknutt" /></a> </p>
 
