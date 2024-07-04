@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Rajat Disawal</h1>
 <h3 align="center">Generative AI Engineer</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kashewknutt&label=Profile%20views&color=0e75b6&style=flat" alt="kashewknutt" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kashewknutt" alt="kashewknutt" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/diskyped" target="blank"><img src="https://img.shields.io/twitter/follow/diskyped?logo=twitter&style=for-the-badge" alt="diskyped" /></a> </p>
+
 <img align="right" alt="coding" width="40%" src="https://github.com/kashewknutt/kashewknutt/blob/main/HelloWorld.gif">
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=kashewknutt&label=Profile%20views&color=0e75b6&style=flat" alt="kashewknutt" /> </p>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kashewknutt" alt="kashewknutt" /></a> </p>
-
-<p align="center"> <a href="https://twitter.com/diskyped" target="blank"><img src="https://img.shields.io/twitter/follow/diskyped?logo=twitter&style=for-the-badge" alt="diskyped" /></a> </p>
 
 <h3 align="center">About Me</h3>
 
