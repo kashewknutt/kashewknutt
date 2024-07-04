@@ -15,17 +15,17 @@
 
 - 🤝 I’m looking for help with [CollegeSyllabusChatbot](github.com/kashewknutt/VESITCourseGPT)
 
-- 👨‍💻 All of my projects are available at [temporarylink.com](temporarylink.com)
-
-- 📝 I regularly write articles on [futureblog.com](futureblog.com)
-
 - 💬 Ask me about **Django, Python, LLM, GenAI, Data Analysis and Machine Learning**
 
 - 📫 How to reach me **kashewknutt@gmail.com**
 
-- 📄 Know about my experiences [publicresume.com](publicresume.com)
-
 - ⚡ Fun fact **I'm a passionate music composer, producer, guitarist, pianist and singer.**
+
+<!-- - 👨‍💻 All of my projects are available at [temporarylink.com](temporarylink.com)
+
+- 📝 I regularly write articles on [futureblog.com](futureblog.com)
+
+- 📄 Know about my experiences [publicresume.com](publicresume.com)-->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
