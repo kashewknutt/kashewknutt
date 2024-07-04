@@ -1,10 +1,11 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Rightous&size=35&center=true&vCenter=true&width=600&height=70&duration=4500&lines=Hoohaa!+👋,+I'm+Rajat+Disawal!" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Rightous&duration=5500&pause=1000&color=A302F7&background=FFFFFF00&center=true&vCenter=true&random=false&width=600&height=70&lines=Hoohaa!+%F0%9F%91%8B%2C+I'm+Rajat+Disawal!;I'm+a+Generative+AI+Engineer" />
 </h1>
-<h3 align="center">Generative AI Engineer</h3>
+<h3 align="center">I'm a Generative AI Engineer</h3>
 
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=kashewknutt&label=Profile%20views&color=0e75b6&style=flat" alt="kashewknutt" /> </p>
+
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=kashewknutt&label=Profile%20views&color=0d75b6&style=flat" alt="kashewknutt" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kashewknutt" alt="kashewknutt" /></a> </p>
 
@@ -36,7 +37,7 @@
 
 <h3 align="center">My Contributions</h3>
 <h1></h1>
-<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/kashewknutt/kashewknutt/contribution-grid.svg" />
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/kashewknutt/kashewknutt/temp/contribution-grid.svg" />
 
 <h3 align="center">Connect with Me</h3>
 <h1></h1>
@@ -234,13 +235,13 @@
 </div>
 
 <p align="center"> <!-- Center-align the following statistics -->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kashewknutt&layout=compact&langs_count=8" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kashewknutt&count_private=true&layout=compact&langs_count=8&theme=react&border_radius=10" alt="Top Languages" />
 </p>
 
 <p align="center"> <!-- Center-align the following statistics -->
-    <img src="https://github-readme-stats.vercel.app/api?username=kashewknutt&show_icons=true" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=kashewknutt&show_icons=true&theme=react&border_radius=10" alt="GitHub Stats" />
 </p>
 
 <p align="center"> <!-- Center-align the following statistics -->
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kashewknutt" alt="GitHub Streak Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kashewknutt&count_private=true&theme=react&border_radius=10" alt="GitHub Streak Stats" />
 </p>
