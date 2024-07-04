@@ -34,6 +34,10 @@
     -->
 </ul>
 
+<h3 align="center">My Contributions</h3>
+<h1></h1>
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/kashewknutt/kashewknutt/contribution-grid.svg" />
+
 <h3 align="center">Connect with Me</h3>
 <h1></h1>
 
