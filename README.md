@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Rajat Disawal</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Rightous&size=35&center=true&vCenter=true&width=600&height=70&duration=4500&lines=Hoohaa!+👋,+I'm+Rajat+Disawal!" />
+</h1>
 <h3 align="center">Generative AI Engineer</h3>
 
 
@@ -13,8 +15,6 @@
 <h3 align="center">About Me</h3>
 <h1></h1>
 <p align="center">I'm a tech enthusiast specializing in Django and data visualization. I love integrating chatbots, APIs, and advanced data techniques into my projects. I'm always seeking cost-effective and innovative solutions using free tools and open-source libraries. Outside of tech, I enjoy music production and staying updated with the stock market.</p>
-<br>
-<br>
 <br>
 </div>
 <h3 align="center">Current Focus</h3>
