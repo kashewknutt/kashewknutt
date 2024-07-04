@@ -29,7 +29,7 @@ jobs:
           outputs: |
             dist/contribution-grid.svg
             dist/contribution-grid-dark.svg?palette=github-dark
-            dist/contribution-grid.gif?color_snake=red&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+            dist/contribution-grid.gif?color_snake=A302F7&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
         env:
            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
