@@ -238,7 +238,7 @@
 <h1></h1>
 
 <p align="center"> <!-- Center-align the following statistics -->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kashewknutt&count_private=true&layout=compact&langs_count=8&theme=react&border_radius=10" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kashewknutt&layout=compact&langs_count=8&theme=react&border_radius=10" alt="Top Languages" />
 </p>
 
 <p align="center"> <!-- Center-align the following statistics -->
@@ -246,5 +246,5 @@
 </p>
 
 <p align="center"> <!-- Center-align the following statistics -->
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kashewknutt&count_private=true&theme=react&border_radius=10" alt="GitHub Streak Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kashewknutt&theme=react&border_radius=10" alt="GitHub Streak Stats" />
 </p>
