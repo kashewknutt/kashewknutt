@@ -14,8 +14,6 @@
 <h1></h1>
 <p align="center">I'm a tech enthusiast specializing in Django and data visualization. I love integrating chatbots, APIs, and advanced data techniques into my projects. I'm always seeking cost-effective and innovative solutions using free tools and open-source libraries. Outside of tech, I enjoy music production and staying updated with the stock market.</p>
 <br>
-<br>
-<br>
 </div>
 <h3 align="center">Current Focus</h3>
 <h1></h1>
