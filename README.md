@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Rajat Disawal</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Rightous&size=35&center=true&vCenter=true&width=600&height=70&duration=4500&lines=Hoohaa!+👋,+I'm+Rajat+Disawal!" />
+</h1>
 <h3 align="center">Generative AI Engineer</h3>
 
 
