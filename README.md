@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rajat Disawal</h1>
 <h3 align="center">Generative AI Engineer</h3>
 
+<img align="right" alt="coding" width="20%" src="https://github.com/kashewknutt/kashewknutt/blob/main/HelloWorld.gif">
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kashewknutt&label=Profile%20views&color=0e75b6&style=flat" alt="kashewknutt" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kashewknutt" alt="kashewknutt" /></a> </p>
