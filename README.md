@@ -1,7 +1,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Rightous&duration=5500&pause=1000&color=A302F7&background=FFFFFF00&center=true&vCenter=true&random=false&width=600&height=70&lines=Hoohaa!+%F0%9F%91%8B%2C+I'm+Rajat+Disawal!;I'm+a+Generative+AI+Engineer" />
 </h1>
-<h3 align="center">I'm a Generative AI Engineer</h3>
+<!--<h3 align="center">I'm a Generative AI Engineer</h3>-->
 
 
 
