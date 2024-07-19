@@ -28,8 +28,8 @@
     <li>💬 Ask me about Django, Python, LLM, GenAI, Data Analysis and Machine Learning</li>
     <li>📫 How to reach me <a href="mailto:kashewknutt@gmail.com">kashewknutt@gmail.com</a></li>
     <li>⚡ Fun fact: I'm a passionate music composer, producer, guitarist, pianist, and singer.</li>
+    <li>📄 Know about my experiences on<a href="https://kashewknutt.github.io/portfolio/">My Portfolio</a></li>
     <!--
-    <li>📄 Know about my experiences [publicresume.com](publicresume.com)</li>
     <li>📝 I regularly write articles on [futureblog.com](futureblog.com)</li>
     <li>👨‍💻 All of my projects are available at [temporarylink.com](temporarylink.com)</li>
     -->
