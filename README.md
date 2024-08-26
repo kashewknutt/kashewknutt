@@ -9,7 +9,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kashewknutt" alt="kashewknutt" /></a> </p>
 
-<p align="right"> <a href="https://twitter.com/kashewknutt" target="blank"><img src="https://img.shields.io/twitter/follow/diskyped?logo=twitter&style=for-the-badge" alt="kashewknutt" /></a> </p>
+<p align="right"> <a href="https://twitter.com/kashewknutt" target="blank"><img src="https://img.shields.io/twitter/follow/kashewknutt?logo=twitter&style=for-the-badge" alt="kashewknutt" /></a> </p>
 
 <div align="center">
 <img align="right" alt="coding" width="35%" src="https://github.com/kashewknutt/kashewknutt/blob/main/HelloWorld.gif">
