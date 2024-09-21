@@ -21,7 +21,7 @@
 <h3 align="center">Current Focus</h3>
 <h1></h1>
 <ul align="left">
-    <li>🔭 Working on <a href="https://github.com/kashewknutt/StockAI">StockAI</a></li>
+    <li>🔭 Explore my bio <a href="https://rajatdisawal.vercel.app">rajatdisawal.vercel.app</a></li>
     <li>🌱 Learning AI and Data Science</li>
     <li>👯 Collaborating on <a href="https://github.com/kashewknutt/understandingSimulations">PythonSimulations</a></li>
     <li>🤝 Seeking help with <a href="https://github.com/kashewknutt/VESITCourseGPT">CollegeSyllabusChatbot</a></li>
