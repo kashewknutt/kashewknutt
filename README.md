@@ -15,7 +15,7 @@
 <img align="right" alt="coding" width="35%" src="https://github.com/kashewknutt/kashewknutt/blob/main/HelloWorld.gif">
 <h3 align="center">About Me</h3>
 <h1></h1>
-<p align="center">I'm a tech enthusiast specializing in Django and data visualization. I love integrating chatbots, APIs, and advanced data techniques into my projects. I'm always seeking cost-effective and innovative solutions using free tools and open-source libraries. Outside of tech, I enjoy music production and staying updated with the stock market.</p>
+<p align="center">I'm a Deep Learning enthusiast with a knack for GenAI and Data Science. I love integrating chatbots, APIs, and advanced data techniques into my projects. I'm always seeking cost-effective and innovative solutions using free tools and open-source libraries. Outside of tech, I enjoy music production and staying updated with the stock market.</p>
 <br>
 </div>
 <h3 align="center">Current Focus</h3>
