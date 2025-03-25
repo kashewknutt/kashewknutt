@@ -242,12 +242,6 @@
 
 <p align="center"> <!-- Center-align the following statistics -->
     <img src="https://github-readme-stats.vercel.app/api?username=kashewknutt&show_icons=true&theme=react&border_radius=10" alt="GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api?username=Parthwanjari07&show_icons=true&theme=react&border_radius=10" alt="GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api?username=HitenGhumnani&show_icons=true&theme=react&border_radius=10" alt="GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api?username=positronix33&show_icons=true&theme=react&border_radius=10" alt="GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api?username=girGitter&show_icons=true&theme=react&border_radius=10" alt="GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api?username=Arghyann&show_icons=true&theme=react&border_radius=10" alt="GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api?username=evacad0&show_icons=true&theme=react&border_radius=10" alt="GitHub Stats" />
 </p>
 
 <p align="center"> <!-- Center-align the following statistics -->
