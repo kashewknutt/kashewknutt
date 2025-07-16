@@ -21,10 +21,9 @@
 <h3 align="center">Current Focus</h3>
 <h1></h1>
 <ul align="left">
-    <li>🔭 Explore my bio <a href="https://rajatdisawal.vercel.app">rajatdisawal.vercel.app</a></li>
+    <li>🔭 Explore my bio <a href="https://portfolio-rajatdisawal.vercel.app">portfolio-rajatdisawal.vercel.app</a></li>
     <li>🌱 Learning AI and Data Science</li>
-    <li>👯 Collaborating on <a href="https://github.com/kashewknutt/understandingSimulations">PythonSimulations</a></li>
-    <li>🤝 Seeking help with <a href="https://github.com/kashewknutt/VESITCourseGPT">CollegeSyllabusChatbot</a></li>
+    <li>👯 Collaborating on <a href="https://litementorai.vercel.app">LiteMentorAI</a></li>
     <li>💬 Ask me about DL, NNs, Python, LLMs, GenAI, Django, Data Analysis and Machine Learning</li>
     <li>📫 How to reach me <a href="mailto:kashewknutt@gmail.com">kashewknutt@gmail.com</a></li>
     <li>⚡ Fun fact: I'm a passionate music composer, producer, guitarist, pianist, and singer.</li>
