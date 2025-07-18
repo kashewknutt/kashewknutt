@@ -240,7 +240,7 @@
 </p>
 
 <p align="center"> <!-- Center-align the following statistics -->
-    <img src="https://github-readme-stats.vercel.app/api?username=kashewknutt&show_icons=true&theme=react&border_radius=10" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=kashewknutt&rank_icon=percentile&show_icons=true&theme=react&border_radius=10" alt="GitHub Stats" />
 </p>
 
 <p align="center"> <!-- Center-align the following statistics -->
