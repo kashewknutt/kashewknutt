@@ -24,7 +24,7 @@
     <li>🔭 Explore my bio <a href="https://portfolio-rajatdisawal.vercel.app">portfolio-rajatdisawal.vercel.app</a></li>
     <li>🌱 Learning AI and Data Science</li>
     <li>👯 Collaborating on <a href="https://litementorai.vercel.app">LiteMentorAI</a></li>
-    <li>💬 Ask me about DL, NNs, Python, LLMs, GenAI, Django, Data Analysis and Machine Learning</li>
+    <li>💬 Ask me about LangChain, DL, NNs, Python, LLMs, GenAI, Django, Data Analysis and Machine Learning</li>
     <li>📫 How to reach me <a href="mailto:kashewknutt@gmail.com">kashewknutt@gmail.com</a></li>
     <li>⚡ Fun fact: I'm a passionate music composer, producer, guitarist, pianist, and singer.</li>
     <!--
