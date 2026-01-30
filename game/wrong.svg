@@ -1,0 +1,20 @@
+<svg width="600" height="260" viewBox="0 0 600 260" xmlns="http://www.w3.org/2000/svg">
+  <rect width="600" height="260" rx="20" fill="#0d1117"/>
+
+  <text x="300" y="110" text-anchor="middle"
+        font-size="30" fill="#f85149" font-weight="bold">
+    ❌ Fooled!
+  </text>
+
+  <text x="300" y="145" text-anchor="middle"
+        font-size="16" fill="#c9d1d9">
+    That one was AI-generated 👀
+  </text>
+
+  <a href="./play-again.svg">
+    <text x="300" y="200" text-anchor="middle"
+          font-size="16" fill="#A302F7">
+      Try again →
+    </text>
+  </a>
+</svg>
