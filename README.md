@@ -19,8 +19,6 @@
   </p>
 </div>
 
----
-
 <h2 align="center">🎯 Current Focus</h2>
 
 <ul>
@@ -32,15 +30,11 @@
   <li>⚡ Fun fact: Music producer, guitarist, pianist & singer</li>
 </ul>
 
----
-
 <h2 align="center">📈 Contributions (3D)</h2>
 
 <p align="center">
   <img src="./profile-3d-contrib/profile-green-animate.svg" />
 </p>
-
----
 
 <h2 align="center">GitHub Stats</h2>
 
@@ -55,9 +49,6 @@
 <p align="center"> <!-- Center-align the following statistics -->
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=kashewknutt&theme=react&border_radius=10" alt="GitHub Streak Stats" />
 </p>
-
-
----
 
 <h2 align="center">🤝 Connect With Me</h2>
 
