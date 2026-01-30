@@ -23,7 +23,7 @@
   <img src="./profile-3d-contrib/profile-green-animate.svg" />
 </p>
 
-<h2 align="center">Mini Game: AI or Human?</h2>
+<!-- <h2 align="center">Mini Game: AI or Human?</h2>
 
 <p align="center">
   <a href="./game/">
@@ -34,7 +34,7 @@
 <p align="center">
   Click an option to see if you guessed right :P
   This is a simple recreation of the Turing Experiment: Human or Not?
-</p>
+</p> -->
 
 <h2 align="center">GitHub Stats</h2>
 
