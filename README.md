@@ -5,7 +5,7 @@
 <div align="center">
   <img align="right" width="35%" src="https://github.com/kashewknutt/kashewknutt/blob/main/HelloWorld.gif" />
 
-  <h2>About Me</h2>
+  <span>About Me</span>
 
   <p>
     I'm a <b>Generative AI Engineer</b> with a strong interest in Deep Learning,
@@ -19,21 +19,20 @@
   </p>
 </div>
 
-<h2 align="center">🎯 Current Focus</h2>
-
-<ul>
-  <li>🔭 Portfolio: <a href="https://portfolio-rajatdisawal.vercel.app">portfolio-rajatdisawal.vercel.app</a></li>
-  <li>🌱 Learning advanced AI, GenAI & data systems</li>
-  <li>👯 Collaborating on <a href="https://litementorai.vercel.app">LiteMentorAI</a></li>
-  <li>💬 Ask me about LLMs, LangChain, DL, Python, Django & ML</li>
-  <li>📫 Reach me: <a href="mailto:kashewknutt@gmail.com">kashewknutt@gmail.com</a></li>
-  <li>⚡ Fun fact: Music producer, guitarist, pianist & singer</li>
-</ul>
-
-<h2 align="center">📈 Contributions (3D)</h2>
-
 <p align="center">
   <img src="./profile-3d-contrib/profile-green-animate.svg" />
+</p>
+
+<h2 align="center">Curious? Play a Game</h2>
+
+<p align="center">
+  <a href="https://kashewknutt.github.io/kashewknutt/dist/" target="_blank">
+    <img src="./dist/breakout.svg" alt="Play Breakout!" />
+  </a>
+</p>
+
+<p align="center">
+  Click the game to play — blocks are my GitHub contributions
 </p>
 
 <h2 align="center">GitHub Stats</h2>
