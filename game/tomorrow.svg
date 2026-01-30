@@ -1,0 +1,13 @@
+<svg width="600" height="220" xmlns="http://www.w3.org/2000/svg">
+  <rect width="600" height="220" rx="20" fill="#0d1117"/>
+
+  <text x="300" y="100" text-anchor="middle"
+        font-size="22" fill="#A302F7">
+    Come back tomorrow 👋
+  </text>
+
+  <text x="300" y="140" text-anchor="middle"
+        font-size="14" fill="#c9d1d9">
+    A new Turing Test is generated every night.
+  </text>
+</svg>

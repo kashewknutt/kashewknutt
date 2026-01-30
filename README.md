@@ -23,16 +23,17 @@
   <img src="./profile-3d-contrib/profile-green-animate.svg" />
 </p>
 
-<h2 align="center">Curious? Play a Game</h2>
+<h2 align="center">Mini Game: AI or Human?</h2>
 
 <p align="center">
-  <a href="https://kashewknutt.github.io/kashewknutt/dist/" target="_blank">
-    <img src="./dist/breakout.svg" alt="Play Breakout!" />
+  <a href="./game/start.svg">
+    <img src="./game/start.svg" alt="Play AI or Human game" />
   </a>
 </p>
 
 <p align="center">
-  Click the game to play — blocks are my GitHub contributions
+  Click an option to see if you guessed right :P
+  This is a simple recreation of the Turing Experiment: Human or Not?
 </p>
 
 <h2 align="center">GitHub Stats</h2>

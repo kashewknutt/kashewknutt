@@ -1,0 +1,33 @@
+<svg width="600" height="360" viewBox="0 0 600 360" xmlns="http://www.w3.org/2000/svg">
+  <rect width="600" height="360" rx="20" fill="#0d1117"/>
+
+  <text x="300" y="40" text-anchor="middle"
+        font-size="22" fill="#A302F7" font-weight="bold">
+    Which was written by a Human?
+  </text>
+
+  <!-- Option A -->
+  <a href="./wrong.svg">
+    <rect x="40" y="70" width="520" height="90" rx="12"
+          fill="#161b22"/>
+    <text x="60" y="105" font-size="14" fill="#c9d1d9">
+      “I am deeply passionate about leveraging cutting-edge AI systems
+    </text>
+    <text x="60" y="125" font-size="14" fill="#c9d1d9">
+      to drive scalable, efficient, and impactful solutions.”
+    </text>
+  </a>
+
+  <!-- Option B -->
+  <a href="./correct.svg">
+    <rect x="40" y="190" width="520" height="90" rx="12"
+          fill="#161b22"/>
+    <text x="60" y="225" font-size="14" fill="#c9d1d9">
+      “I like building stuff, breaking it, fixing it at 2am,
+    </text>
+    <text x="60" y="245" font-size="14" fill="#c9d1d9">
+      and then wondering why I didn’t just sleep.”
+    </text>
+  </a>
+
+</svg>

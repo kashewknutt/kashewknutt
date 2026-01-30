@@ -1,0 +1,27 @@
+<svg width="600" height="260" viewBox="0 0 600 260" xmlns="http://www.w3.org/2000/svg">
+  <rect width="600" height="260" rx="20" fill="#0d1117"/>
+
+  <text x="300" y="70" text-anchor="middle"
+        font-size="28" fill="#A302F7" font-weight="bold">
+    🧠 Turing Experiment
+  </text>
+
+  <text x="300" y="115" text-anchor="middle"
+        font-size="16" fill="#c9d1d9">
+    Can you tell Human text from AI?
+  </text>
+
+  <a href="./q1.svg">
+    <rect x="200" y="155" width="200" height="50" rx="12"
+          fill="#A302F7">
+      <animate attributeName="opacity"
+               values="1;0.6;1"
+               dur="1.8s"
+               repeatCount="indefinite"/>
+    </rect>
+    <text x="300" y="188" text-anchor="middle"
+          font-size="18" fill="#ffffff" font-weight="bold">
+      ▶ Start
+    </text>
+  </a>
+</svg>

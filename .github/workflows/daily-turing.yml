@@ -1,0 +1,34 @@
+name: Daily Turing Question
+
+on:
+  schedule:
+    - cron: "0 23 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install deps
+        run: pip install google-generativeai
+
+      - name: Generate daily question
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python scripts/generate_question.py
+
+      - name: Commit changes
+        run: |
+          git config user.name "KashewKnutt Bot"
+          git config user.email "bot@github.com"
+          git add game/
+          git commit -m "Daily Turing question"
+          git push
