@@ -23,6 +23,18 @@
   <img src="./profile-3d-contrib/profile-green-animate.svg" />
 </p>
 
+<h2 align="center">Curious? Play a Game</h2>
+
+<p align="center">
+  <a href="https://kashewknutt.github.io/kashewknutt/dist/" target="_blank">
+    <img src="./dist/breakout.svg" alt="Play Breakout!" />
+  </a>
+</p>
+
+<p align="center">
+  Click the game to play — blocks are my GitHub contributions
+</p>
+
 <h2 align="center">GitHub Stats</h2>
 
 <p align="center"> <!-- Center-align the following statistics -->
