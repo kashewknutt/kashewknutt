@@ -2,9 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&duration=5500&pause=1000&color=A302F7&center=true&vCenter=true&width=700&height=70&lines=Hoohaa!+👋+I'm+KashewKnutt;Generative+AI+Engineer;Building+cool+things+on+GitHub" />
 </h1>
 
-
----
-
 <div align="center">
   <img align="right" width="35%" src="https://github.com/kashewknutt/kashewknutt/blob/main/HelloWorld.gif" />
 
