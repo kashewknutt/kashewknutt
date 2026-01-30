@@ -2,8 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&duration=5500&pause=1000&color=A302F7&center=true&vCenter=true&width=700&height=70&lines=Hoohaa!+👋+I'm+KashewKnutt;Generative+AI+Engineer;Building+cool+things+on+GitHub" />
 </h1>
 
-<p align="right"> <a href="https://twitter.com/kashewknutt" target="blank"><img src="https://img.shields.io/twitter/follow/kashewknutt?logo=twitter&style=for-the-badge" alt="kashewknutt" /></a> </p>
-
 ---
 
 <div align="center">
