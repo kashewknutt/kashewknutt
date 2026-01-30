@@ -2,22 +2,18 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&duration=5500&pause=1000&color=A302F7&center=true&vCenter=true&width=700&height=70&lines=Hoohaa!+👋+I'm+KashewKnutt;Generative+AI+Engineer;Building+cool+things+on+GitHub" />
 </h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kashewknutt&label=Profile%20views&color=8b5cf6&style=flat" />
-</p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=kashewknutt&label=Profile%20views&color=0d75b6&style=flat" alt="kashewknutt" /> </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=kashewknutt&theme=dracula&row=1&column=6" />
-  </a>
-</p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kashewknutt" alt="kashewknutt" /></a> </p>
+
+<p align="right"> <a href="https://twitter.com/kashewknutt" target="blank"><img src="https://img.shields.io/twitter/follow/kashewknutt?logo=twitter&style=for-the-badge" alt="kashewknutt" /></a> </p>
 
 ---
 
 <div align="center">
   <img align="right" width="35%" src="https://github.com/kashewknutt/kashewknutt/blob/main/HelloWorld.gif" />
 
-  <h2>👨‍💻 About Me</h2>
+  <h2>About Me</h2>
 
   <p>
     I'm a <b>Generative AI Engineer</b> with a strong interest in Deep Learning,
@@ -27,7 +23,7 @@
   </p>
 
   <p>
-    Outside tech, I’m deeply into music production 🎵 and tracking the stock market 📈.
+    Outside tech, I’m deeply into music production, jamming with my guitar and friends and travelling.
   </p>
 </div>
 
@@ -54,19 +50,20 @@
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">GitHub Stats</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kashewknutt&show_icons=true&rank_icon=github&theme=react&border_radius=12&cache_seconds=1800" />
+<p align="center"> <!-- Center-align the following statistics -->
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kashewknutt&layout=compact&langs_count=8&theme=react&border_radius=10" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kashewknutt&layout=compact&langs_count=8&theme=react&border_radius=12&cache_seconds=1800" />
+<p align="center"> <!-- Center-align the following statistics -->
+    <img src="https://github-readme-stats.vercel.app/api?username=kashewknutt&rank_icon=grade&show_icons=true&theme=react&border_radius=10" alt="GitHub Stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=kashewknutt&theme=react&border_radius=12&cache_seconds=1800" />
+<p align="center"> <!-- Center-align the following statistics -->
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kashewknutt&theme=react&border_radius=10" alt="GitHub Streak Stats" />
 </p>
+
 
 ---
 
