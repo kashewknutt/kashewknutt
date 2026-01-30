@@ -2,19 +2,19 @@
   <rect width="600" height="260" rx="20" fill="#0d1117"/>
 
   <text x="300" y="110" text-anchor="middle"
-        font-size="30" fill="#f85149" font-weight="bold">
-    ❌ Fooled!
+        font-size="30" fill="#3fb950" font-weight="bold">
+    ✅ Correct!
   </text>
 
   <text x="300" y="145" text-anchor="middle"
         font-size="16" fill="#c9d1d9">
-    That one was AI-generated :P
+    You passed this round of the Turing Test.
   </text>
 
-  <a href="https://github.com/kashewknutt/kashewknutt/blob/main/game/play-again.svg">
+  <a href="https://github.com/kashewknutt/kashewknutt/blob/main/game/tomorrow/">
     <text x="300" y="200" text-anchor="middle"
           font-size="16" fill="#A302F7">
-      Try again →
+      Play again →
     </text>
   </a>
 </svg>
