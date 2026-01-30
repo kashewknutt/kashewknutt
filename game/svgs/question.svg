@@ -7,7 +7,7 @@
   </text>
 
   <!-- Option A -->
-  <a href="https://github.com/kashewknutt/kashewknutt/blob/main/game/wrong.svg">
+  <a href="https://github.com/kashewknutt/kashewknutt/blob/main/game/wrong/">
     <rect x="40" y="70" width="520" height="90" rx="12"
           fill="#161b22"/>
     <text x="60" y="105" font-size="14" fill="#c9d1d9">
@@ -19,7 +19,7 @@
   </a>
 
   <!-- Option B -->
-  <a href="https://github.com/kashewknutt/kashewknutt/blob/main/game/correct.svg">
+  <a href="https://github.com/kashewknutt/kashewknutt/blob/main/game/correct/">
     <rect x="40" y="190" width="520" height="90" rx="12"
           fill="#161b22"/>
     <text x="60" y="225" font-size="14" fill="#c9d1d9">

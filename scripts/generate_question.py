@@ -49,12 +49,12 @@ svg = f"""
     Daily Turing Test
   </text>
 
-  <a href="https://github.com/kashewknutt/kashewknutt/blob/main/game/{'correct' if answer == 'A' else 'wrong'}.svg">
+  <a href="https://github.com/kashewknutt/kashewknutt/blob/main/game/{'correct' if answer == 'A' else 'wrong'}/">
     <rect x="40" y="70" width="520" height="90" rx="12" fill="#161b22"/>
     <text x="60" y="110" font-size="14" fill="#c9d1d9">{A}</text>
   </a>
 
-  <a href="https://github.com/kashewknutt/kashewknutt/blob/main/game/{'correct' if answer == 'B' else 'wrong'}.svg">
+  <a href="https://github.com/kashewknutt/kashewknutt/blob/main/game/{'correct' if answer == 'B' else 'wrong'}/">
     <rect x="40" y="190" width="520" height="90" rx="12" fill="#161b22"/>
     <text x="60" y="230" font-size="14" fill="#c9d1d9">{B}</text>
   </a>
