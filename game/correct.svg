@@ -11,7 +11,7 @@
     You passed this round of the Turing Test.
   </text>
 
-  <a href="./play-again.svg">
+  <a href="https://github.com/kashewknutt/kashewknutt/blob/main/game/play-again.svg">
     <text x="300" y="200" text-anchor="middle"
           font-size="16" fill="#A302F7">
       Play again →

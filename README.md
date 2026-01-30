@@ -26,8 +26,8 @@
 <h2 align="center">Mini Game: AI or Human?</h2>
 
 <p align="center">
-  <a href="./game/start.svg">
-    <img src="./game/start.svg" alt="Play AI or Human game" />
+  <a href="https://github.com/kashewknutt/kashewknutt/blob/main/game/start.svg">
+    <img src="https://github.com/kashewknutt/kashewknutt/blob/main/game/start.svg" alt="Play AI or Human game" />
   </a>
 </p>
 
