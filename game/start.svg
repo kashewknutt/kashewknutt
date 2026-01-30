@@ -11,7 +11,7 @@
     Can you tell Human text from AI?
   </text>
 
-  <a href="./q1.svg">
+  <a href="./question.svg">
     <rect x="200" y="155" width="200" height="50" rx="12"
           fill="#A302F7">
       <animate attributeName="opacity"
