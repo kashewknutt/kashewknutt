@@ -50,7 +50,7 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=kashewknutt&theme=react&border_radius=10" alt="GitHub Streak Stats" />
 </p>
 
-<h2 align="center">🤝 Connect With Me</h2>
+<h2 align="center">Connect With Me</h2>
 
 <p align="center">
   <a href="https://twitter.com/kashewknutt"><img src="https://raw.githubusercontent.com/kashewknutt/kashewknutt/main/icons/twitter.svg" width="40"/></a>
