@@ -16,7 +16,7 @@
   </p>
 
   <p>
-    Outside tech, I’m deeply into music production, jamming with my guitar and friends and travelling.
+    Outside tech, I’m deeply into music production, jamming with my guitar and travelling.
   </p>
 </div>
 
