@@ -10,7 +10,7 @@
   <span>About Me</span>
 
   <p>
-    I'm a <b>Generative AI Engineer</b> with a strong interest in Deep Learning,
+    I'm a <b>Deep Learning Researcher</b> with a strong interest in Deep Learning,
     Data Science, and building real-world GenAI systems.
     I enjoy integrating chatbots, APIs, and advanced ML pipelines using
     cost-effective and open-source tools.
