@@ -13,6 +13,7 @@
     Data Science, and building real-world GenAI systems.
     I enjoy integrating chatbots, APIs, and advanced ML pipelines using
     cost-effective and open-source tools.
+    I currently run a software solutions agency that helps non-tech founders as their tech backbone.
   </p>
 
   <p>
