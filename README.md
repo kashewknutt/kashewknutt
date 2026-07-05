@@ -37,19 +37,39 @@
   This is a simple recreation of the Turing Experiment: Human or Not?
 </p> -->
 
-<h2 align="center">GitHub Stats</h2>
+<h2 align="center">GitHub Analytics</h2>
 
-<p align="center"> <!-- Center-align the following statistics -->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kashewknutt&layout=compact&langs_count=8&theme=react&border_radius=10" alt="Top Languages" />
-</p>
+<div align="center">
 
-<p align="center"> <!-- Center-align the following statistics -->
-    <img src="https://github-readme-stats.vercel.app/api?username=kashewknutt&rank_icon=grade&show_icons=true&theme=react&border_radius=10" alt="GitHub Stats" />
-</p>
+<br/>
 
-<p align="center"> <!-- Center-align the following statistics -->
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kashewknutt&theme=react&border_radius=10" alt="GitHub Streak Stats" />
-</p>
+<img width="48%" src="https://streak-stats.demolab.com/?user=kashewknutt&theme=tokyonight&hide_border=true" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kashewknutt&theme=tokyo-night&hide_border=true&area=true&custom_title=Rajat%27s%20Contribution%20Graph" width="98%" alt="Contribution Graph" />
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/kashewknutt/kashewknutt/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="98%" />
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<h2 align="center">Statistics</h2>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kashewknutt&theme=tokyonight" width="98%" />
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kashewknutt&theme=tokyonight" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kashewknutt&theme=tokyonight" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kashewknutt&theme=tokyonight" width="32%" />
+
+</div>
 
 <h2 align="center">Connect With Me</h2>
 
